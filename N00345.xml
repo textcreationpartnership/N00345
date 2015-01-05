@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:000420_0000_0FA5A9FFD4DA5548"/>
-            <pb facs="tcp:000420_0001_0FA5AA01659765D8" rendition="simple:additions"/>
+            <pb facs="unknown:000420_0000_0FA5A9FFD4DA5548"/>
+            <pb facs="unknown:000420_0001_0FA5AA01659765D8"
+                rendition="simple:additions"/>
             <head>AN <hi>Elegiack Tribute</hi> to the Sacred D<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>t of the Reverend and Worthy Mr. <hi>SEABORN COTTON</hi> Pastour of the Church of Christ at <hi>HAMPTO<gap reason="illegible" resp="#PDCC" extent="1 letter">
